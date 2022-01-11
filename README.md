@@ -7,3 +7,4 @@
 - item 2
 - item 3 pe develop
 - item 4 pe main
+- item 5 la colegu'
